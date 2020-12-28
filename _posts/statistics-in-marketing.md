@@ -10,9 +10,7 @@ ogImage:
     url: tbc
 ---
 
-# Work in Progress
-
-Over the past ten or so years we have seen new marketing technology mature and digital transformation amplify the amount of data avaialble to marketers, and also greatly increase it's accesiblity. While this is all good news for the profession, an important consideration often goes missing - more data doesn't make it *easier* to make well informed decisions, it makes it harder. While it becomes easy to tell a story with a large pool of data to draw from, it becomes much harder to tell an accurate story.
+Over the past ten or so years we have seen new marketing technology mature and digital transformation amplify the amount of data avaialble to marketers, and also greatly increase it's accesiblity. While this is all good news for the profession, an important consideration often goes missing - more data doesn't make it *easier* to make well informed decisions, it makes it harder. While it becomes easy to tell a story with a large pool of data to draw from, it becomes much harder to tell an useful story.
 
 ## Digital Media Metrics
 
