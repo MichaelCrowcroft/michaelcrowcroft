@@ -15,11 +15,12 @@ export default function Home({ recentPosts }) {
                     <link rel="icon" href="/favicon.ico" />
                 </Head>
 
-                <div className="flex items-center justify-between h-screen p-20">
-                    <div className="pl-8 pr-8 w-2/5 self-center col-span-1">
+                <div className="flex flex-wrap items-center lg:h-screen xl:h-screen 2xl:h-screen
+                                text-center lg:text-left xl:text-left 2xl:text-left p-5 md:p-10 lg:p-20 xl:p-20 2xl:p-20">
+                    <div className="w-full lg:w-2/5 xl:w-2/5 2xl:w-2/5 lg:pr-8 xl:pr-8 2xl:pr-8">
                         <Intro />
                     </div>
-                    <div className="pl-8 pr-8 w-3/5 self-center col-span-1">
+                    <div className="w-full lg:w-3/5 xl:w-3/5 2xl:w-3/5 lg:pl-8 xl:pl-8 2xl:pl-8">
                         <hr className="block border-t-1 border-gray-900 mx-auto my-6"/>
                         <Container>
                             {recentPosts.map((post) => (
