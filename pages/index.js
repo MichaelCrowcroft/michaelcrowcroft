@@ -31,7 +31,9 @@ export default function Home({ recentPosts }) {
                                     slug={post.slug}
                                     excerpt={post.excerpt}
                                 />
-                            ))}
+                            )).reduce((accu, elem) => {
+                                return accu === null ? [elem] : [...accu, <hr className="block border-t-1 border-gray-200 mx-auto my-6"/>, elem]
+                            }, null)}
                         </Container>
                         <hr className="block border-t-1 border-gray-900 mx-auto my-6"/>
                     </div>
