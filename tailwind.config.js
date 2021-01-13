@@ -26,7 +26,23 @@ module.exports = {
             typography: (theme) => ({
                 DEFAULT: {
                     css: {
-                        color: "000000",
+                        color: theme('colors.gray.800'),
+                        a: {
+                            color: theme('colors.teal.800'),
+                            textDecoration: 'underline',
+                        },
+                        h1: {
+                            fontFamily: theme('fontFamily.serif'),
+                        },
+                        h2: {
+                            fontFamily: theme('fontFamily.serif'),
+                        },
+                        h3: {
+                            fontFamily: theme('fontFamily.serif'),
+                        },
+                        h4: {
+                            fontFamily: theme('fontFamily.serif'),
+                        },
                     },
                 },
             }),

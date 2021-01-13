@@ -18,7 +18,7 @@ export default function Home() {
 
                 <hr className="block w-full border-t-0 max-w-sm mx-auto border-gray-300 my-8" />
 
-                <p className="text-xl">Let's <Link href="/"><a className="text-gray-500">go home</a></Link>, shall we?</p>
+                <p className="text-xl">Let's <Link href="/"><a className="text-teal-800 hover:underline">go home</a></Link>, shall we?</p>
             </div>
         </main>
 
