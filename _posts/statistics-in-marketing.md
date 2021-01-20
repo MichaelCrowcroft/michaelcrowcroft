@@ -1,6 +1,6 @@
 ---
 title: Lies, Damned Lies, and Marketing Statistics
-excerpt: We often tell a story in digital media using metrics like impressions (and by extension reach), and conversions. For brand building lots of impressions, means high reach & frequency which means we are delivering awarness. For performance media conversion tracking means we can fine tune our advertising to drive business results. What if this is all painfully untrue though?
+excerpt: We often tell a story in digital media using metrics like impressions and conversions. For brand building lots of impressions means high reach & frequency which means we are delivering awareness. For performance media, conversion tracking means we can fine tune our advertising to drive business results. What if this is all painfully untrue though?
 coverImage: tbc
 date: '2020-12-10'
 author:
