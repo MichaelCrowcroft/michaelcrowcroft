@@ -23,17 +23,16 @@ export default function Home({ recentPosts }) {
                     <div className="w-full lg:w-3/5 xl:w-3/5 2xl:w-3/5 lg:pl-8 xl:pl-8 2xl:pl-8">
                         <hr className="block border-t-1 border-gray-900 mx-auto my-6"/>
                         <Container>
-                            {recentPosts.map((post) => (
+                            {recentPosts.map((post, index) => (
                                 <PostPreview
+                                    index={index}
                                     key={post.slug}
                                     title={post.title}
                                     date={post.date}
                                     slug={post.slug}
                                     excerpt={post.excerpt}
                                 />
-                            )).reduce((accu, elem) => {
-                                return accu === null ? [elem] : [...accu, <hr className="block border-t-1 border-gray-200 mx-auto my-6"/>, elem]
-                            }, null)}
+                            ))}
                         </Container>
                         <hr className="block border-t-1 border-gray-900 mx-auto my-6"/>
                     </div>

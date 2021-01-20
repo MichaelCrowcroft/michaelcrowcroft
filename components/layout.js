@@ -1,9 +1,7 @@
 import Footer from '../components/footer'
 import Meta from '../components/meta'
 
-export default function Layout({children, footer}) {
-    if (footer != false) {footer = true}
-
+export default function Layout({children, footer=true}) {
     return (
         <div>
             <Meta />
