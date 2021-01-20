@@ -10,9 +10,9 @@ ogImage:
     url: tbc
 ---
 
-Over the past ten or so years we have seen new marketing technology mature and digital transformation amplify the amount of data avaialble to marketers. While this should be good news for the profession, an important consideration often goes missing - more data doesn't make it *easier* to make well informed decisions, it makes it harder. It becomes easy invent stories with a large pool of data to draw from, but it becomes much harder to tell an honest one.
+Over the past ten or so years we have seen new marketing technology mature and digital transformation amplify the amount of data available to marketers. While this should be good news for the profession, an important consideration often goes missing - more data doesn't make it *easier* to make well informed decisions, it makes it harder. It becomes easier to invent stories with a large pool of data to draw from, but it becomes much harder to tell an honest one.
 
-There's a lot that could (and has) been said on metrics in digital media, and to me the most troubling aspect of them is the most simple. That is just *what* do the metrics actually mean? With impressions and conversions I'm consistently impressed at how often I see these metrics misrepresented in reports and then joked about (usually behind a client's back).
+There's a lot that could (and has) been said on metrics in digital media, and to me the most troubling aspect of them is the most simple. *What* do the metrics actually mean? With impressions and conversions I'm consistently impressed at how often I see these metrics misrepresented in reports and then joked about (usually behind a client's back).
 
 ## Impressions
 
