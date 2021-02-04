@@ -10,15 +10,15 @@ ogImage:
     url: tbc
 ---
 
-In an effort to make sure customers keep coming back many brands invest in loyalty schemes, and complex CRM systems. In 2019 [research showed that brands spent over $300 billion on loyalty schemes in the USA](https://hospitalitytech.com/71-companies-invest-2-total-revenue-loyalty-crm), with 55% of c-suite executives saying that they intend to continue increasing their investment in the space.
+In an effort to make sure customers keep coming back many brands invest in loyalty schemes and complex CRM systems. In 2019 [research showed that brands spent over $300 billion on loyalty schemes in the USA](https://hospitalitytech.com/71-companies-invest-2-total-revenue-loyalty-crm), with 55% of c-suite executives saying that they intend to continue increasing their investment in the space.
 
-What's fueling this is a drive to be both customer centric and data driven. Loyalty schemes are borne out of the best intentions - they let brands offer incentives to customers, and they help mine data from customers that can be used to fuel insights and make business decisions. If we're really being data driven though, we must first look at what the data and research tells us about customer loyalty.
+What's fueling this is a drive for marketers to be customer centric and data driven. Loyalty schemes are borne out of the best intentions - they let brands offer discounts and incentives to their most valuable customers, and they help mine data from customers that can be used to fuel insights and make business decisions. If we're really being data driven though, we must first look at what the data and research tells us about customer loyalty.
 
 ## A Most Loved Brand
 
-Apple is consistently valued as one of the '[most valuable brands](https://www.forbes.com/sites/martyswant/2020/07/27/apple-microsoft-and-other-tech-giants-top-forbes-2020-most-valuable-brands-list/?sh=4fb9ea283ada)' in the world. This valuation is derived from some belief that Apple customers love the brand more than other brands. Even before the iPod and iPhone it wasn't hard to find the term 'Apply fanboy' thrown around on internet forums. Surely this brand love means that Apple customers would be more loyal than an average customer?
+Apple is consistently valued as one of the '[most valuable brands](https://www.forbes.com/sites/martyswant/2020/07/27/apple-microsoft-and-other-tech-giants-top-forbes-2020-most-valuable-brands-list/?sh=4fb9ea283ada)' in the world (if you believe such studies). This valuation is derived from some belief that Apple customers love the brand more than other brands. Even before the iPod and iPhone it wasn't hard to find the term 'Apply fanboy' thrown around on internet forums. Surely this brand love means that Apple customers would be more loyal than an average customer?
 
-Well, not really. Looking at data from the early 2000s (I would love to see more recent numbers if anyone has any), Macintosh computers experienced customer loyalty (expressed in repeat purchases) that was more or less line with their market share. Dell, at the time had a far more market penetration, and so had a higher rate of repeat purchases. Apple's rate of repeat purchase was slightly higher than you would expect given it's market share which might be due to vendor lock-in from Mac OS moreso than customer loyalty. Any way you look at it Apple fanboys weren't really any more fanatical than any other brands fans (and in fact seem to be less fanatical than Dell's).
+Well, not really. Looking at data from the early 2000s (I would love to see more recent numbers if anyone has any), Macintosh computers experienced customer loyalty (expressed in repeat purchases) that was more or less line with their market share. Dell, at the time had more market penetration, and so had a higher rate of repeat purchases (loyalty). Apple's rate of repeat purchase was slightly higher than you would expect given it's market share which might be due to vendor lock-in from Mac OS moreso than customer loyalty. Any way you look at it Apple fanboys weren't really any more fanatical than any other brands fans (and in fact seem to be less fanatical than Dell's).
 
 | Brand | Repeat Purchase |
 | :-: | :-:      |
@@ -33,7 +33,7 @@ Even the Apple iPhone - one of the most beloved products **ever** has [customer 
 
 ## What Loyal Customers Really Love
 
-While customer loyalty is largely a function of market penetration, not loyalty marketing efforts - loyal customers do still exist. Apple computers might not have had a higher proportion of loyal customers than Dell did, but perhaps the loyal customers that they did have were more devout, spending larger amounts of their income on the Apple brand than the other customers. If this is the case, then there might still be good cause to keep loyalty marketing efforts intact.
+While customer loyalty is largely a function of market penetration, not loyalty marketing efforts - loyal customers do still exist. Apple computers might not have had a more loyal customers than Dell did, but perhaps the loyal customers that they did have were more devout, spending larger amounts of their income on the Apple brand than the other customers. If this is the case, then there might still be good cause to keep loyalty marketing efforts intact.
 
 Sadly, the opposite of this is true. The most loyal customers, tend to be of little value to a brand, often spending the least. [One research paper](https://www.researchgate.net/publication/306009341_Do_loyal_customers_really_pay_more_for_services) looked at airlines, finding that customers with high behavioural loyalty were also the most price sensitive. We shouldn't ignore these customers, but developing expensive marketing initiatives for what is in reality a low value segment of the market would be wasteful.
 
@@ -43,6 +43,6 @@ So, while there are loyal customers they offer a pragmatic loyalty. They are pri
 
 On the surface there's something that feels 'customer centric' about loyalty programmes. We want to celebrate and reward our customers for showing loyalty to our brand. What research tells us however is that across most categories (no you probably aren't an exception), they don't really influence people's buying habits. To take it a step further you could even argue that they are condescending. Customers know the reason loyalty schemes exist is to try get more money and data out of them.
 
-If brands want strong customer loyalty they need to be realistic about the relationship they have with customers. It's not built on love, it's transactional. Your customers will shop around with competitors, and your competitors customers will shop around with you.
+If brands want strong customer loyalty they need to be realistic about the relationship they have with customers. It's not built on love, it's transactional. Your customers will shop around with your competitors, and your competitors customers will shop around with you.
 
-Keep it simple and scrap the loyalty scheme. Offer a better product for a fair price, and make sure everyone knows that you do. Market penetration will grow, and with it customer loyalty.
+Want customer loyalty? Keep it simple and scrap the loyalty scheme. Offer a better product for a fair price, and make sure everyone knows that you do. Market penetration will grow, and with it customer loyalty.
